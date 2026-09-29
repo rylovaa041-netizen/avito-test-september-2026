@@ -100,22 +100,6 @@
 - **Временные интервалы** (`dt_min`, `dt_std`): у ботов минимальные
   интервалы и низкий разброс.
 
-## Структура проекта
-
-```
-.
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-│   ├── events.csv.gz
-│   └── sample_submission.csv
-├── solution.ipynb       # основное решение
-├── metric.py            # официальная метрика из задания
-├── submission.csv       # результат
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
 ## Как запустить
 
